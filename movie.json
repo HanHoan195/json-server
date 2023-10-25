@@ -1,0 +1,157 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "nameMovie": "Lá phiếu tử hình",
+      "country": "Hàn Quốc",
+      "duration": "60 phút/tập",
+      "category": [
+        "Hành động",
+        "Tâm lý"
+      ],
+      "director": "Park Shin Woo",
+      "avatar": "https://thethaovanhoa.mediacdn.vn/372676912336973824/2023/8/11/1-16917213394633412767.jpg",
+      "desscription": "The Killing Vote là một bộ phim Hàn Quốc thuộc thể loại kinh dị, tâm lý tội phạm của đạo diễn Park Shin Woo, được chuyển thể từ webtoon nổi tiếng cùng tên, đăng nhiều kỳ trên Kakao Webtoon và KakaoPage. Trong phim sẽ có sự tham gia của dàn diễn viên: Park Hae Jin, Park Sung Woong, Lim Ji Yeon,... Nội dung phim The Killing Vote xoay quanh câu chuyện kể về hành trình đi tìm danh tính thực sự của một người tên Gaetal",
+      "trailer_url": "https://www.youtube.com/watch?v=hDqHJNmfTgE"
+    },
+    {
+      "id": 2,
+      "nameMovie": "Tội ác kinh hoàng",
+      "country": "Hàn Quốc",
+      "duration": "50 phút/tập",
+      "category": [
+        "Truyền hình",
+        "Hành động",
+        "Tâm lý"
+      ],
+      "director": "Han Dong-wook",
+      "avatar": "https://phimmoi.im/storage/images/toi-ac-kinh-hoang/F3dqO6VagAACT2k1.jpeg",
+      "desscription": "“The Worst of Evil” là bộ phim hành động tội phạm kể về hành trình của cảnh sát Kang Joon Mo (Ji Chang Wook) khi anh thực hiện một nhiệm vụ bí mật, nhằm trấn áp một đường dây ma túy lớn có trụ sở tại Gangnam, trung tâm buôn bán ma túy giữa Hàn Quốc, Trung Quốc và Nhật Bản trong những năm 1990. Với quyết tâm mạnh mẽ, Kang Joon Mo sẽ làm bất cứ điều gì để đạt được mục tiêu của mình và chứng tỏ, anh là một nhân vật dũng cảm, càng tỏa sáng hơn khi đối mặt với nguy hiểm.",
+      "trailer_url": "https://www.youtube.com/watch?v=x4spfjUh-K0"
+    },
+    {
+      "id": 3,
+      "nameMovie": "Jonh Wick 4: Chuẩn bị chiến tranh",
+      "country": "Mỹ",
+      "duration": "178 phút",
+      "category": [
+        "Hành động",
+        "Võ thuật",
+        "Hình sự"
+      ],
+      "director": "Chad Stahelski",
+      "trailer_url": "https://www.youtube.com/watch?v=qEVUtrk8_B4",
+      "avatar": "https://static.tvtropes.org/pmwiki/pub/images/536d438b_3a26_4982_a827_11a8a8694d3c.jpeg",
+      "desscription": "Sát Thủ John Wick Phần 3: Chuẩn Bị Chiến Tranh - John Wick Chapter 3: Parabellum (2019):Sau khi trở thành giải thưởng lớn của giới sát thủ toàn cầu, siêu sát thủ John Wick phải cùng chú chó cưng lên đường chạy trốn. Với giá 14 triệu $, John Wick trở thành mục tiêu béo bở của bất cứ kẻ săn đầu người nào.",
+      "imageUrl": {}
+    },
+    {
+      "id": 4,
+      "nameMovie": "Ác quỷ ma sơ II",
+      "country": "Mỹ",
+      "duration": "109 phút",
+      "category": [
+        "Hành động",
+        "Kinh dị",
+        "Viễn tưởng"
+      ],
+      "director": "Michael Chaves",
+      "trailer_url": "https://www.youtube.com/watch?v=Z4KJNT9AwT8",
+      "avatar": "https://img.etimg.com/thumb/width-640,height-480,imgsize-4150,resizemode-75,msid-103519479/news/international/us/the-nun-ii-see-horror-films-initial-box-office-performance-storyline-cast-and-more.jpg",
+      "desscription": "Ác Quỷ Ma Sơ II, The Nun II, là phim kinh dị siêu nhiên kiểu Gothic chiếu rạp từ ngày 8/9/2023. Đây là phần tiếp theo của The Nun (2018) và là phần thứ 9 thuộc series The Conjuring - Ám Ảnh Kinh Hoàng. Khán giả sẽ gặp lại Valak với tạo hình mới và những màn hù dọa vốn là ‘đặc sản’ của series The Conjuring. Phim The Nun 2 lấy bối cảnh là thập niên 1960 ở 1 ngôi trường nội trú Pháp. Maurice (Jonas Bloquet) tình cờ phát hiện ra nhiều điều bất thường ở trường học và lờ mờ nhận ra sự hiện diện của quỷ dữ quanh mình"
+    },
+    {
+      "id": 5,
+      "nameMovie": "Nhiệm vụ bất khả thi",
+      "country": "Mỹ",
+      "duration": "163 phút",
+      "category": [
+        "Hành động",
+        "Phiêu lưu",
+        "Hài hước"
+      ],
+      "director": "Christopher McQuarrie",
+      "trailer_url": "https://www.youtube.com/watch?v=TVEIIUXUC6E",
+      "avatar": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/7/0/700x1000_7_.jpg",
+      "desscription": " Paramount Pictures sẽ phân phối bộ phim trên toàn cầu vào tháng 7/2023 trong khi phần 8 với tên gọi Mission: Impossible - Dead Reckoning Part Two dự kiến khởi chiếu vào mùa hè năm sau. Ethan Hunt (Tom Cruise) và nhóm IMF bắt tay vào nhiệm vụ nguy hiểm nhất của họ - truy tìm vũ khí đáng sợ đe dọa tương lai nhân loại trước khi nó rơi vào tay kẻ xấu. Hành trình này vô tình tạo ra 1 cuộc đua chết chóc trên toàn cầu. Đối mặt với kẻ thù bí ẩn và khó nắm bắt là Gabriel, Ethan buộc phải đưa ra những quyết định sinh tử và đánh đổi cả mạng sống của những người mà anh yêu thương nhất."
+    },
+    {
+      "id": 6,
+      "nameMovie": "Robot đại chiến: Quái thú trỗi dậy",
+      "country": "Mỹ",
+      "duration": "127 phút",
+      "category": [
+        "Hành động",
+        "Phiêu lưu",
+        "Hài hước",
+        "Viễn tưởng"
+      ],
+      "director": "Steven Caple Jr.",
+      "trailer_url": "https://www.youtube.com/watch?v=VV_Mjc8ttrg",
+      "avatar": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/7/0/700x1000_.jpg",
+      "desscription": "Bối cảnh của chúng ta tập trung vào hai thế hệ tiếp theo của Maximals và Predacons, xảy ra 300 năm sau những sự kiện trong loạt Transformers ban đầu. Nhưng có một sự khác biệt quan trọng – chúng ta sẽ trở lại thời kỳ nguyên thủy, một thời điểm mà Energon tồn tại mạnh mẽ và cơ thể máy móc của chúng không thể hấp thụ loại năng lượng này. Trong tình hình mới này, chủng loài Cybertron mới sẽ đối mặt với một thách thức lớn: thích ứng với một môi trường hoàn toàn mới. Để tồn tại, họ buộc phải học hỏi cơ chế sinh tồn của các loài động vật."
+    },
+    {
+      "id": 7,
+      "nameMovie": "Người nhện: Vũ  trụ mới",
+      "country": "Mỹ",
+      "duration": "117 phút",
+      "category": [
+        "Phiêu Lưu, Hoạt Hình, Viễn Tưởng"
+      ],
+      "director": "Bob Persichetti",
+      "trailer_url": "https://www.youtube.com/watch?v=Wt0y8IH63jg",
+      "avatar": "https://upload.wikimedia.org/wikipedia/vi/8/82/Nguoinhenvutrumoi.png",
+      "desscription": "Miles Morales là một thiếu niên New York đang phải đấu tranh với những kỳ vọng đặt ra bởi bố cậu—cảnh sát Jefferson Davis, vốn là một người luôn coi Spider-Man là hiểm họa. Sau khi chuyển tới học tại trường nội trú, Miles tới thăm người chú Aaron Davis và được chú dẫn tới một ga tàu điện ngầm bỏ hoang để cậu có thể thoải mái thể hiện đam mê vẽ graffiti của mình. Tại đây, Miles bị một con nhện nhiễm phóng xạ cắn, và từ đó cậu bắt đầu sở hữu những khả năng giống như loài nhện. Quay trở lại nhà ga bỏ hoang, Miles phát hiện ra cỗ máy siêu gia tốc hạt chế tạo bởi Kingpin, kẻ đang mong muốn mở ra các vũ trụ song song để mang người vợ và người con đã khuất trở về. Hắn cho rằng nguyên nhân cái chết của họ/cả hai là do Spider-Man gây ra"
+    },
+    {
+      "id": 8,
+      "nameMovie": "Gangnam Zombie",
+      "country": "Hàn Quốc",
+      "duration": "81 phút",
+      "category": [
+        "Kinh Dị, Hành Động, Phiêu Lưu, Tâm Lý, Viễn Tưởng"
+      ],
+      "director": "Lee Soo-seong",
+      "trailer_url": "https://www.youtube.com/watch?v=zjrC1NK5Le4v",
+      "avatar": "https://images2.thanhnien.vn/Uploaded/khanhntm/2023_01_06/gangnam-zombie-387.jpeg",
+      "desscription": "Nội dung phim Gangnam Zombie kể về một dịch bệnh kỳ lạ trong một chung cư hạng sang ở khu Gangnam, khu vực nổi tiếng giàu có và sầm uất của Hàn Quốc. Phim lấy bối cảnh tại khu vực tập trung của giới siêu giàu Hàn Quốc mang lại một góc nhìn mới mẻ hơn cho dòng phim zombie.Trong phim, một căn bệnh kỳ lạ xuất hiện và nhanh chóng lan rộng khắp khu vực khiến vô số người bị lây nhiễm. 2 nhân vật chính của phim là Hyeon-seok và Min-jeong (Do Ji Il-joo và Park Ji-yeon thủ vai) sát cánh bên nhau để chiến đấu thoát khỏi sự truy lùng của zombie."
+    },
+    {
+      "imageUrl": {
+        "0": {}
+      },
+      "nameMovie": "Shaine Merritt",
+      "duration": "Commodo laborum Sun",
+      "country": "Sit at elit a aliqu",
+      "director": "Accusantium dolorum ",
+      "category": [
+        "Phiêu lưu",
+        "Võ thuật"
+      ],
+      "desscription": "Ducimus explicabo ",
+      "avatar": "http://res.cloudinary.com/dqgavjgs1/image/upload/v1697938964/zjrqrt9wxoxlxayx0chl.png",
+      "id": 9
+    },
+    {
+      "imageUrl": {
+        "0": {}
+      },
+      "nameMovie": "chiến binh mùa đông",
+      "duration": "Lorem quas qui conse",
+      "country": "Esse saepe alias ex",
+      "director": "Cupidatat amet impe",
+      "category": [
+        "Hành động",
+        "Phiêu lưu",
+        "Kinh dị",
+        "Tâm lý",
+        "Hình sự",
+        "Võ thuật"
+      ],
+      "desscription": "Provident itaque eu",
+      "avatar": "http://res.cloudinary.com/dqgavjgs1/image/upload/v1697939436/ihzx9ktfjwmbmxvswtz6.jpg",
+      "id": 10
+    }
+  ]
+}

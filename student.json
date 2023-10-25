@@ -1,0 +1,78 @@
+{
+  "student": [
+    {
+      "id": "lea319jollj7y1rs",
+      "name": "Aleen Streich 123",
+      "age": 23,
+      "mark": 6.9,
+      "gender": "female",
+      "createdAt": 1692522078273,
+      "updatedAt": 1692522078273,
+      "city": "pt"
+    },
+    {
+      "id": "lea319jollj7y1rt",
+      "name": "Shirley Boehm 123",
+      "age": 21,
+      "mark": 6.4,
+      "gender": "female",
+      "createdAt": 1692522078273,
+      "updatedAt": 1692522078273,
+      "city": "hn"
+    },
+    {
+      "id": "lea319jollj7y1ru",
+      "name": "Keanu Willms",
+      "age": 21,
+      "mark": 5.3,
+      "gender": "female",
+      "createdAt": 1692522078273,
+      "updatedAt": 1692522078273,
+      "city": "pt"
+    },
+    {
+      "id": "lea319jollj7y1rv",
+      "name": "Wilber Conn",
+      "age": 25,
+      "mark": 3.5,
+      "gender": "male",
+      "createdAt": 1692522078273,
+      "updatedAt": 1692522078273,
+      "city": "hcm"
+    },
+    {
+      "id": "lea319jollj7y1rw",
+      "name": "Conrad Leannon",
+      "age": 26,
+      "mark": 7.2,
+      "gender": "male",
+      "createdAt": 1692522078273,
+      "updatedAt": 1692522078273,
+      "city": "dn"
+    },
+    {
+      "name": "Ethan Huff 123",
+      "age": "21",
+      "mark": "2",
+      "gender": "",
+      "city": "hcm",
+      "id": "ioAG0M6"
+    },
+    {
+      "name": "Gage Case 12",
+      "age": "23",
+      "mark": "3",
+      "gender": "male",
+      "city": "hcm",
+      "id": "dGr-wqN"
+    },
+    {
+      "name": "Francisfdfs",
+      "age": "22",
+      "mark": "2",
+      "gender": "male",
+      "city": "hn",
+      "id": "X7eR50T"
+    }
+  ]
+}

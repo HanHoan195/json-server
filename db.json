@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "fullName": "Lenore Pruitt",
+      "email": "hucor@mailinator.com",
+      "phone": "+1 (459) 697-6702",
+      "locationRegion": {
+        "id": 4,
+        "provinceId": "14",
+        "provinceName": "Tỉnh Sơn La",
+        "districtId": "121",
+        "districtName": "Huyện Bắc Yên",
+        "wardId": "03856",
+        "wardName": "Thị trấn Bắc Yên",
+        "address": "Beatae rerum qui dol"
+      },
+      "balance": 0
+    }
+  ]
+}
